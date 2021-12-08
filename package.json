@@ -1,0 +1,12 @@
+{
+    "name": "hl7.fhir.be.ehealth.template",
+    "version": "0.0.1",
+    "type": "fhir.template",
+    "license": "CC0-1.0",
+    "description": "Template for FHIR IGs published by the eHealth platform",
+    "author": "http://hl7belgium.org",
+      "base":  "hl7.be.fhir.template",
+    "dependencies": {
+      "hl7.be.fhir.template": "current"
+    }
+  }
