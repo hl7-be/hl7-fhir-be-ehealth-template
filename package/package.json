@@ -4,6 +4,7 @@
     "type": "fhir.template",
     "license": "CC0-1.0",
     "description": "Template for FHIR IGs published by the eHealth platform",
+    "canonical": "http://fhir.org/templates/hl7-fhir-be-ehealth-template",
     "author": "http://hl7belgium.org",
       "base":  "hl7.be.fhir.template",
     "dependencies": {
